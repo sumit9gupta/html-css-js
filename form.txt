@@ -1,0 +1,43 @@
+  <form action="">
+        <label for="i">Eneter your name:</label>
+        <input type="text" placeholder="Enter your name"><br>
+        <label for="a">Enter your email:</label>
+        <input type="email" placeholder="Enter your  email id">
+        <br>
+        <label for="s">Enter yourSumi
+
+        </label>
+        <button type="submit"> Submit</button>
+
+    </form>
+
+    <form action="">
+
+        <label for="f">Enter your Email id</label>
+        <input type="email" placeholder="Enter your email">
+        <br><br>
+        <label for="e">Enter your pasword</label>
+        <input type="password" placeholder="Enter your pasword">
+        <br><br>
+        <button type="submit">submit</button>
+        <br>
+        <input type="date">
+        <br><br>
+        <label for="r">Choose file</label>
+        <input type="file">
+        <br><br>
+        <label for="t">enter your number:</label>
+        <input type="number">
+        <label for="u">enter your time:</label>
+        <input type="time">
+        <br>
+        <label for="o">range:</label>
+        <input type="range">
+        <input type="submit" value="submit">
+        <input type="reset">
+        <br>
+        <!-- Evry input must have type attribute-->
+   month:
+        <input type="month">
+        
+    
